@@ -1,3 +1,3 @@
 # Trilateration
 
-Location device using signals from three access points.
+Locate device using signals from three access points.
